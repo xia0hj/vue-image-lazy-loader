@@ -61,7 +61,7 @@ export default class ImageManager {
   }
 
   /**
-   *
+   * @public
    * @param {string} newSrc 新的图片 src
    */
   updateSrc (newSrc) {
